@@ -1,6 +1,6 @@
 
 
-# **POC 6 - Superhero Stats Viewer**
+# **POC  - Superhero Stats Viewer**
 
 Este repositório apresenta uma aplicação que consome a [Superhero API](https://superheroapi.com/) para exibir informações e estatísticas de super-heróis de maneira visual e interativa. A aplicação foi construída utilizando Next.js e demonstra como usar hooks do React para consumir APIs e renderizar componentes de forma dinâmica.
 
